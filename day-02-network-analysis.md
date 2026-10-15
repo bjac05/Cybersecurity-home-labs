@@ -258,4 +258,15 @@ This lab strengthened my ability to interpret packet-level information and docum
 
 ## Conclusion
 
+## Lab Screenshots
+
+### TCP Three-Way Handshake
+![TCP three-way handshake showing SYN, SYN-ACK, and ACK](Screenshots/Day-02/tcp-three-way-handshake-public.jpeg)
+
+### DNS Query Analysis
+![DNS HTTPS record query analyzed in Wireshark](Screenshots/Day-02/dns-query-public.png)
+
+### UDP Traffic Analysis
+![UDP packet analysis showing source and destination ports](Screenshots/Day-02/udp-analysis-public.png)
+
 This exercise provided hands-on experience with networking concepts relevant to entry-level cybersecurity and Security Operations Center (SOC) analyst roles.
