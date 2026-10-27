@@ -1,0 +1,18 @@
+timestamp,source,event_type,username,src_ip,severity,details
+2026-10-22 09:00:12,Authentication,LOGIN_SUCCESS,jsmith,192.0.2.10,Low,Normal login
+2026-10-22 09:02:31,Authentication,LOGIN_SUCCESS,mjones,192.0.2.25,Low,Normal login
+2026-10-22 09:05:10,Authentication,LOGIN_FAILED,admin,203.0.113.45,Medium,Invalid password
+2026-10-22 09:05:14,Authentication,LOGIN_FAILED,admin,203.0.113.45,Medium,Invalid password
+2026-10-22 09:05:18,Authentication,LOGIN_FAILED,admin,203.0.113.45,Medium,Invalid password
+2026-10-22 09:05:22,Authentication,LOGIN_FAILED,admin,203.0.113.45,Medium,Invalid password
+2026-10-22 09:05:26,Authentication,LOGIN_SUCCESS,admin,203.0.113.45,High,Successful login following failures
+2026-10-22 09:06:03,Endpoint,ANTIVIRUS_ALERT,admin,203.0.113.45,High,Suspicious executable detected
+2026-10-22 09:07:15,Identity,PRIVILEGE_CHANGE,admin,203.0.113.45,Critical,Account added to administrators group
+2026-10-22 09:10:42,Authentication,LOGIN_FAILED,service_account,198.51.100.77,Medium,Invalid password
+2026-10-22 09:10:45,Authentication,LOGIN_FAILED,backup_admin,198.51.100.77,Medium,Invalid password
+2026-10-22 09:10:48,Authentication,LOGIN_FAILED,administrator,198.51.100.77,Medium,Invalid password
+2026-10-22 09:15:08,Endpoint,ANTIVIRUS_ALERT,jsmith,192.0.2.10,Low,Potentially unwanted application blocked
+2026-10-22 09:20:30,Authentication,LOGIN_SUCCESS,mjones,192.0.2.25,Low,Normal login
+2026-10-22 09:25:01,Identity,PASSWORD_RESET,jsmith,192.0.2.10,Low,User requested password reset
+2026-10-22 09:30:17,Authentication,LOGIN_FAILED,jsmith,192.0.2.10,Low,Invalid password
+2026-10-22 09:31:02,Authentication,LOGIN_SUCCESS,jsmith,192.0.2.10,Low,Normal login
