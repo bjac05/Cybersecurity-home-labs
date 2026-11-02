@@ -1,0 +1,16 @@
+timestamp,event_id,source_ip,username,hostname,event_type,status,severity,description
+2026-10-15 08:00:12,EVT-001,192.0.2.45,jdoe,WS-001,Login,Success,Low,Normal employee login
+2026-10-15 08:05:18,EVT-002,198.51.100.23,admin,SRV-001,Login,Failed,Medium,Incorrect password
+2026-10-15 08:05:24,EVT-003,198.51.100.23,admin,SRV-001,Login,Failed,Medium,Incorrect password
+2026-10-15 08:05:31,EVT-004,198.51.100.23,admin,SRV-001,Login,Failed,Medium,Incorrect password
+2026-10-15 08:05:39,EVT-005,198.51.100.23,admin,SRV-001,Login,Failed,Medium,Incorrect password
+2026-10-15 08:05:47,EVT-006,198.51.100.23,admin,SRV-001,Login,Failed,Medium,Incorrect password
+2026-10-15 08:06:02,EVT-007,198.51.100.23,admin,SRV-001,Login,Success,High,Successful login after repeated failures
+2026-10-15 08:07:15,EVT-008,198.51.100.23,admin,SRV-001,PrivilegeChange,Success,High,Admin privileges modified
+2026-10-15 08:09:42,EVT-009,198.51.100.23,admin,SRV-001,FileAccess,Success,High,Sensitive directory accessed
+2026-10-15 08:12:07,EVT-010,198.51.100.23,admin,SRV-001,DataTransfer,Success,Critical,Unusual outbound data transfer
+2026-10-15 08:14:10,EVT-011,203.0.113.62,asmith,WS-004,Login,Failed,Low,Incorrect password
+2026-10-15 08:15:03,EVT-012,203.0.113.62,asmith,WS-004,Login,Success,Low,Normal employee login
+2026-10-15 08:20:11,EVT-013,192.0.2.76,backup,SRV-002,Backup,Success,Low,Scheduled backup completed
+2026-10-15 08:25:32,EVT-014,198.51.100.23,admin,SRV-001,AccountChange,Success,High,New privileged user account created
+2026-10-15 08:30:06,EVT-015,192.0.2.45,jdoe,WS-001,Logout,Success,Low,Normal employee logout
