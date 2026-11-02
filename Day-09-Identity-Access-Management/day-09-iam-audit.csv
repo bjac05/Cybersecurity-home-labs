@@ -1,0 +1,13 @@
+user_id,username,department,job_role,account_status,access_level,mfa_enabled,last_login_days,employment_status
+USR-001,jdoe,IT,IT Administrator,Active,Admin,Yes,1,Active
+USR-002,asmith,Finance,Financial Analyst,Active,Standard,Yes,2,Active
+USR-003,bwilson,Sales,Sales Representative,Active,Admin,No,3,Active
+USR-004,mjohnson,HR,HR Specialist,Active,Standard,Yes,4,Active
+USR-005,tbrown,IT,Help Desk Technician,Active,Standard,Yes,1,Active
+USR-006,kdavis,Operations,Operations Coordinator,Active,Standard,No,45,Active
+USR-007,rthomas,Finance,Accountant,Enabled,Standard,No,120,Terminated
+USR-008,lmartin,IT,System Administrator,Active,Admin,Yes,2,Active
+USR-009,pparker,Marketing,Marketing Specialist,Disabled,Standard,Yes,90,Terminated
+USR-010,cgreen,HR,HR Manager,Active,Admin,No,5,Active
+USR-011,nlee,Operations,Operations Analyst,Active,Standard,Yes,10,Active
+USR-012,dwhite,IT,Security Analyst,Active,Admin,Yes,1,Active
